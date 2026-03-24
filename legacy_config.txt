@@ -1,0 +1,5 @@
+migration_user=charlie
+migration_pass=Qakjsakj@kaskdj!2223kawkdj#4$%M
+
+aws_access=AKIAX1Y2Z3P4Q5R6
+aws_secret=QwErTyUiOpAsDfGhJkLzXcVbNm123456
